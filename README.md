@@ -3,6 +3,8 @@ Plugin criado personalizado para atuar nos formulários do forminator do wordpre
 do site: http://cliente.grupod.com.br/cursos/
 
 Introdução:
+0 - Criar uma pasta dentro de wp-contens/plugins/{Nome do seu PLUGIN}
+
 1 - Instalação: baixe os arquivos do plugin e cole diretamente na pasta wordpress/wp-content/plugins
 Pronto, seu plugin está copiado e colado
 
